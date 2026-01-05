@@ -1,0 +1,17 @@
+
+font = VT323
+
+outline-width = 0
+border-width = 3
+#corner-radius = 5
+border-color = #0F6
+
+background-color = #000000
+text-color = #0A3
+selection-color = #0F6
+prompt-text = "[mario@navi]$ "
+num-results = 12
+hide-cursor = true
+width = 640
+height = 480
+v

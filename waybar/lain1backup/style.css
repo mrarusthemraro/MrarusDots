@@ -1,0 +1,152 @@
+* {
+    border: 5px;
+    font-size: 14px;
+    font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF" ;
+    min-height: 25px;
+}
+
+window#waybar {
+  background: transparent; 
+  margin: 5px;
+ }
+
+#custom-logo {
+  padding: 0 10px;
+}
+
+.modules-right {
+  padding-left: 15px;
+  border-radius: 15px 15px 15px 15px;
+border-bottom: 2px solid #d27389;
+border-left: 2px solid #d27389;
+border-right: 2px solid #d27389;
+border-top: 2px solid #d27389;
+    border-radius: 50px;
+  margin-top: 0px;
+  margin-right: 0px;
+  background: #000000;
+}
+
+
+.modules-left {
+ border-radius: 50px;
+border-bottom: 2px solid #d27389;
+border-right: 2px solid #d27389;
+border-left: 2px solid #d27389; 
+border-top: 2px solid #d27389;
+    border-radius: 50px;
+  margin-top: 0px;
+  margin-left: 0px;
+  background: #000000;
+}
+
+#battery,
+#custom-clipboard,
+#custom-colorpicker,
+#custom-powerDraw,
+#bluetooth,
+#pulseaudio,
+#network,
+#disk,
+#memory,
+#backlight,
+#cpu,
+#temperature,
+#custom-weather,
+#idle_inhibitor,
+#jack,
+#tray,
+#window,
+#workspaces,
+#clock {
+  padding: 0 5px;
+}
+#pulseaudio {
+  padding-top: 5px;
+  color: #d27389;
+}
+
+#idle_inhibitor{
+color: #d27389;
+}
+
+
+#battery{
+color: #d27389;
+}
+
+#custom-clipboard{
+color:#d27389;
+}
+
+#custom-logo{
+color: #d27389;
+}
+
+
+
+#network{
+color: #d27389;
+}
+
+#temperature.critical,
+#pulseaudio.muted {
+  color: #d27389;
+  padding-top: 0;
+}
+
+#temperature{
+color: #d27389;
+}
+
+#backlight{
+ color: #d27389;
+}
+
+#bluetooth{
+color: #d27389;
+}
+
+
+#disk{
+color: #d27389;
+}
+
+#memory{
+color: #d27389;
+}
+
+#cpu{
+color: #d27389;
+}
+
+#clock{
+  color: #d27389;
+}
+
+#battery.charging {
+    color: #d27389;
+    background-color: transparent;
+}
+
+#battery.warning:not(.charging) {
+    background-color:transparent;
+    color: #d27389;
+}
+
+#battery.critical:not(.charging) {   
+    color: #d27389;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: #000000;
+    }
+}
