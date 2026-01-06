@@ -4,6 +4,7 @@ My (mainly stolen) Arch Linux config files (optimized for a Thinkpad T480)
 # Software
 * Window Manager: `swaywm`
 * Terminal: `foot`
+* Terminal Music Player: `kew`
 * Launcher: `tofi`
 * Status Bar: `waybar`
 * Screenshot Tool: `grim`
@@ -21,10 +22,25 @@ My (mainly stolen) Arch Linux config files (optimized for a Thinkpad T480)
 # Dependencies
 
 * [arch wiki, aka RTFM](https://wiki.archlinux.org/title/Sway)
-* [sway git](https://github.com/swaywm/sway/wiki)
+* [swaywm git](https://github.com/swaywm/sway/wiki)
+* [tofi dos theme](https://github.com/philj56/tofi/blob/master/themes/dos)
 
 Go support the guys I stole 80% of the config from
 * Lryfer [UberDots](https://github.com/lryfer/UberDots)
 * VaniaOP [Sway-Dots](https://github.com/VaniaOP/Sway-Dots)
 
 
+# Rice 
+
+ Desktop
+
+![Desktop](https://github.com/mrarusthemraro/MrarusDots/blob/main/sway/coolscreenshots/Desktop.png?raw=true)
+ 
+ Foot + Kew
+ 
+![IUseArchBtw](https://github.com/mrarusthemraro/MrarusDots/blob/main/sway/coolscreenshots/IUseArchBtw.png?raw=true)
+
+ Tofi (I'm using a slightly edited version of the [dos](https://github.com/philj56/tofi/blob/master/themes/dos theme); remember to install the 'VT323' font 
+
+![Tofi](https://github.com/mrarusthemraro/MrarusDots/blob/main/sway/coolscreenshots/Tofi.png?raw=true) 
+ 
