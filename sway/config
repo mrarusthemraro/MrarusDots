@@ -15,7 +15,7 @@ set $term foot
 set $menu tofi-drun | xargs swaymsg exec --
 output * bg ~/.config/sway/wallpaper.png fill
 
-#gaps inner 6
+gaps inner 6
 gaps outer 6
 client.focused_tab_title #ffffff #ffffff  #000000 #ffffff #ffffff
 client.focused #ffffff #ffffff #000000 #ffffff #ffffff
