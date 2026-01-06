@@ -2,7 +2,7 @@
 My (mainly stolen) Arch Linux config files (optimized for a Thinkpad T480)
 
 # Software
-* Window Manager: `swaywm'
+* Window Manager: `swaywm`
 * Terminal: `foot`
 * Launcher: `tofi`
 * Status Bar: `waybar`
