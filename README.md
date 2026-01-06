@@ -1,5 +1,6 @@
 # MrarusDots
 My (mainly stolen) Arch Linux config files (optimized for a Thinkpad T480)
+Hi, this is my first time using GitHub and I hope everything works smoothly for you
 
 # Software
 * Window Manager: `swaywm`
