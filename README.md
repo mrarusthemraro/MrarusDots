@@ -23,7 +23,7 @@ My (mainly stolen) Arch Linux config files (optimized for a Thinkpad T480)
 
 * [arch wiki, aka RTFM](https://wiki.archlinux.org/title/Sway)
 * [swaywm git](https://github.com/swaywm/sway/wiki)
-* [tofi dos theme](https://github.com/philj56/tofi/blob/master/themes/dos)
+* [tofi dos theme](https://github.com/philj56/tofi/blob/master/themes/dos) I'm using a slightly edited version of this theme; remember to install the `VT323` font
 
 Go support the guys I stole 80% of the config from
 * Lryfer [UberDots](https://github.com/lryfer/UberDots)
@@ -40,7 +40,7 @@ Go support the guys I stole 80% of the config from
  
 ![IUseArchBtw](https://github.com/mrarusthemraro/MrarusDots/blob/main/sway/coolscreenshots/IUseArchBtw.png?raw=true)
 
- Tofi (I'm using a slightly edited version of the [dos](https://github.com/philj56/tofi/blob/master/themes/dos theme); remember to install the 'VT323' font 
+ Tofi 
 
 ![Tofi](https://github.com/mrarusthemraro/MrarusDots/blob/main/sway/coolscreenshots/Tofi.png?raw=true) 
  
