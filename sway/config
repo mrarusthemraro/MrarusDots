@@ -13,7 +13,7 @@ set $up k
 set $right l
 set $term foot
 set $menu tofi-drun | xargs swaymsg exec --
-output * bg ~/.config/sway/wallpaper.png fill
+output * bg ~/.config/sway/wallpaper3.jpg fill
 
 gaps inner 6
 gaps outer 6
